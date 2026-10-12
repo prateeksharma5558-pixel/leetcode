@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0204-count-primes) |
 | [2965-find-missing-and-repeated-values](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -201,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0011-container-with-most-water) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
