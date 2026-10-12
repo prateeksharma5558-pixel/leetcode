@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0014-longest-common-prefix) |
+| [0131-palindrome-partitioning](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Trie
 |  |
 | ------- |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/2596-check-knight-tour-configuration) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0131-palindrome-partitioning) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
