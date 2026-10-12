@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0443-string-compression) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Trie
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0054-spiral-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2596-check-knight-tour-configuration](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Dynamic Programming
 |  |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0204-count-primes) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
