@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0204-count-primes) |
 | [2965-find-missing-and-repeated-values](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -143,4 +145,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
