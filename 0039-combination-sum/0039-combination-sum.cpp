@@ -1,0 +1,28 @@
+class Solution {
+public:
+set<vector<int>> s;
+void getallcombinations(vector<int>& arr, int idx, int tar, vector<vector<int>> &Ans, vector<int> &combin) {
+    if(idx == arr.size() || tar < 0) {
+        return;
+    }
+    if(tar == 0) {
+        if(s.find(combin) == s.end()) {
+            Ans.push_back(combin);
+            s.insert(combin);
+        }
+        return;
+    }
+
+    combin.push_back(arr[idx]);
+    getallcombinations(arr, idx+1, tar-arr[idx], Ans, combin);
+    getallcombinations(arr, idx, tar-arr[idx], Ans, combin);
+    combin.pop_back();
+    getallcombinations(arr,idx+1,tar,Ans,combin);
+}
+    vector<vector<int>> combinationSum(vector<int>& arr, int target) {
+        vector<vector<int>> ans;
+        vector<int> combin;
+        getallcombinations(arr,0,target,ans,combin);
+        return ans;
+    }
+};
