@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0018-4sum) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0037-sudoku-solver) |
 | [0560-subarray-sum-equals-k](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/2965-find-missing-and-repeated-values) |
