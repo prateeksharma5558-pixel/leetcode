@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
