@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0037-sudoku-solver) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0027-remove-element) |
 ## String
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
