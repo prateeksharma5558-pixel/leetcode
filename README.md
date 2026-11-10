@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0503-next-greater-element-ii](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2596-check-knight-tour-configuration](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/2596-check-knight-tour-configuration) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0155-min-stack) |
+| [0503-next-greater-element-ii](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Quicksort
 |  |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
