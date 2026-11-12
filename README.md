@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -244,12 +245,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0206-reverse-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Bracket Sequences
 |  |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
