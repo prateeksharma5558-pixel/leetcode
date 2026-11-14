@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0443-string-compression) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Trie
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Algorithm X
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -282,4 +285,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
