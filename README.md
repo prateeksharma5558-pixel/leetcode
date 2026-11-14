@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Quicksort
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -279,4 +281,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/prateeksharma5558-pixel/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
